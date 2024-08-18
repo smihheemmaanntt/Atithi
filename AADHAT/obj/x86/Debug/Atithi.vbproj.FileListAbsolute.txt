@@ -1,0 +1,919 @@
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\bin\x86\Debug\Atithi.exe.config
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\bin\x86\Debug\Atithi.exe
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\bin\x86\Debug\Atithi.pdb
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\bin\x86\Debug\Atithi.xml
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\bin\x86\Debug\Helper.pdb
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.vbprojFakesResolveAssemblyReference.cache
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.account_group_list.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Account_Group.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Account_List.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.AccountListPrint.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.CreateAccount.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.bank_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Print_CashBook.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.PrintDayBook.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.ChargesForm.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Item_Company_List.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Item_Company.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Group_Item_List.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Group_items.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Invoice_Type_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Invoice_Type.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Unit_Item_List.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Unit_items.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.ItemsForm.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Item_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Items.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Journal_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Bank_Entry.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Print_Ledger.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.OptionsAllForm.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.OutStanding.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Print_Outstanding.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Purchase_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Purchase.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.TransPrint.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.TransRegisterprint.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Cash_Bank_Book.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Day_book.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Autosizer.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.ActivationForm.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.JournalEntry.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Ledger.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.MainScreenPicture.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Payment_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.PayMentform.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.RcptRegisterForm.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.RecieptForm.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.PrintReports.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Sale_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Sale.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.SmsTemplete.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.CompanyList.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Create_Company.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Login.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.UserForm.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.MainScreenForm.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Resources.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.ShowCompanies.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.SetPathForm.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Splash.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Taxation.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.TaxationList.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.vbproj.GenerateResource.Cache
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.exe
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.xml
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.pdb
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.vbprojResolveAssemblyReference.cache
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Package.resources
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Atithi.Membership.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\bin\x86\Debug\Atithi.exe.config
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.exe
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.xml
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.pdb
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\bin\x86\Debug\Atithi.exe
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\bin\x86\Debug\Atithi.pdb
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\bin\x86\Debug\Atithi.xml
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\bin\x86\Debug\Helper.pdb
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.vbprojFakesResolveAssemblyReference.cache
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.vbprojResolveAssemblyReference.cache
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.account_group_list.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Account_Group.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Account_List.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.AccountListPrint.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.CreateAccount.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.bank_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Print_CashBook.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.PrintDayBook.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.ChargesForm.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Item_Company_List.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Item_Company.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Group_Item_List.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Group_items.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Invoice_Type_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Invoice_Type.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Unit_Item_List.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Unit_items.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.ItemsForm.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Item_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Items.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Journal_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Bank_Entry.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Print_Ledger.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Membership.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Package.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.OptionsAllForm.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.OutStanding.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Print_Outstanding.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Purchase_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Purchase.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.TransPrint.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.TransRegisterprint.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Cash_Bank_Book.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Day_book.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Autosizer.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.ActivationForm.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.JournalEntry.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Ledger.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.MainScreenPicture.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Payment_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.PayMentform.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.RcptRegisterForm.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.RecieptForm.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.PrintReports.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Sale_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Sale.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.SmsTemplete.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.CompanyList.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Create_Company.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Login.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.UserForm.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.MainScreenForm.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Resources.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.ShowCompanies.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.SetPathForm.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Splash.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Taxation.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.TaxationList.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.vbproj.GenerateResource.Cache
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Member_Register.resources
+C:\Users\pcsmarts\Desktop\Atithi 1.0\AADHAT\obj\x86\Debug\Atithi.Users_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\Atithi.exe.config
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.exe
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.xml
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.pdb
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\Atithi.exe
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\Atithi.pdb
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\Atithi.xml
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\Helper.pdb
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.vbprojFakesResolveAssemblyReference.cache
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.vbprojResolveAssemblyReference.cache
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.account_group_list.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Account_Group.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Account_List.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.AccountListPrint.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.CreateAccount.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Attender_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Attender.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.bank_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Bill_Entry.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Bill_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Print_CashBook.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.PrintOut_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.ChargesForm.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Company_List.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Company.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Group_Item_List.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Group_items.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR_2.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Unregsiter.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Regsitered.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Type_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Type.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Sale_Type.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Sale_Type_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Unit_Item_List.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Unit_items.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.ItemsForm.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Items.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Journal_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Bank_Entry.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.KOT_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.KOT.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Print_Ledger.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Users_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Member_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Membership.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Package.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.OptionsAllForm.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.OutStanding.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Print_Outstanding.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.POS_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.TransPrint.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.TransRegisterprint.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Report_Viewer.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Cash_Bank_Book.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Day_book.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Autosizer.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.ActivationForm.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.JournalEntry.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Ledger.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.MainScreenPicture.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Payment_Register.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.PayMentform.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.RcptRegisterForm.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.RecieptForm.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.RestroTables.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Type.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.SmsTemplete.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.CompanyList.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Create_Company.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Login.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.UserForm.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.MainScreenForm.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Resources.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.ShowCompanies.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.SetPathForm.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Splash.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Taxation.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.TaxationList.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.POS.resources
+F:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.vbproj.GenerateResource.Cache
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\Atithi.exe.config
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\Atithi.exe
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\Atithi.pdb
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\Atithi.xml
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.account_group_list.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Account_Group.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Account_List.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.AccountListPrint.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.CreateAccount.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Attender_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Attender.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.bank_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Bill_Entry.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Bill_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Print_CashBook.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.PrintOut_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.ChargesForm.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Company_List.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Company.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Group_Item_List.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Group_items.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR_2.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Unregsiter.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Regsitered.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Type_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Type.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Sale_Type.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Sale_Type_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Unit_Item_List.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Unit_items.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.ItemsForm.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Items.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Journal_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Bank_Entry.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.KOT_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.KOT.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Print_Ledger.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Users_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Member_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Membership.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Package.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.OptionsAllForm.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.OutStanding.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Print_Outstanding.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.POS_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.TransPrint.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.TransRegisterprint.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Report_Viewer.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Cash_Bank_Book.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Day_book.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Autosizer.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.ActivationForm.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.JournalEntry.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Ledger.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.MainScreenPicture.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Payment_Register.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.PayMentform.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.RcptRegisterForm.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.RecieptForm.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.RestroTables.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Type.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Check_In.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Reservaration.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.SmsTemplete.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.CompanyList.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Create_Company.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Login.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.UserForm.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.MainScreenForm.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Resources.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.ShowCompanies.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.SetPathForm.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Splash.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.Taxation.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.TaxationList.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.POS.resources
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.vbproj.GenerateResource.Cache
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.exe
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.xml
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.pdb
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.vbprojFakesResolveAssemblyReference.cache
+E:\Curent Work\Atithi 1.1 (Company Modify Updated)\AADHAT\obj\x86\Debug\Atithi.vbprojResolveAssemblyReference.cache
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.exe.config
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.exe
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.pdb
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.xml
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.account_group_list.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Account_Group.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Account_List.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.AccountListPrint.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.CreateAccount.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Attender_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Attender.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.bank_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Bill_Entry.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Bill_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.BusinessSources.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Print_CashBook.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.PrintOut_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ChargesForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Company_List.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Company.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Group_Item_List.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Group_items.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR_2.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Unregsiter.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Regsitered.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Type_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Type.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Sale_Type.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Sale_Type_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Unit_Item_List.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Unit_items.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ItemsForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Items.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Journal_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Bank_Entry.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.KOT_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.KOT.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Print_Ledger.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ApplyLicenseKey.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Users_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Mobile_App.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Member_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Membership.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Package.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.OptionsAllForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.OutStanding.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Print_Outstanding.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.POS_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.TransPrint.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.TransRegisterprint.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Report_Viewer.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Cash_Bank_Book.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Day_book.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Autosizer.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ActivationForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.JournalEntry.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Ledger.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.MainScreenPicture.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Payment_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.PayMentform.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.RcptRegisterForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.RecieptForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.RestroTables.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Type.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Rooms.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Check_in_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.CheckOut_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Booking_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Check_In.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Checkout.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Reservaration.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.SmsTemplete.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.CompanyList.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Create_Company.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Login.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.UserForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.MainScreenForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Resources.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ShowCompanies.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.SetPathForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Splash.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.State.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Taxation.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.TaxationList.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.POS.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.VAS.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.vbproj.GenerateResource.Cache
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.exe
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.xml
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.pdb
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\x86\concrt140.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\x86\cvextern.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\x86\msvcp140.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\x86\opencv_videoio_ffmpeg411.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\x86\vcruntime140.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\Atithi.exe.config
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\Atithi.exe
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\Atithi.pdb
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\Atithi.xml
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\Emgu.CV.UI.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\Emgu.CV.World.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\ZedGraph.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\Emgu.CV.UI.xml
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\Emgu.CV.World.xml
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\ZedGraph.xml
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\de\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\es\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\fr\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\hu\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\it\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\ja\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\pt\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\ru\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\sk\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\sv\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\tr\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.account_group_list.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Account_Group.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Account_List.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.AccountListPrint.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.CreateAccount.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Attender_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Attender.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.bank_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Food_Bill.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Food_Bill_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.BusinessSources.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Print_CashBook.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.PrintOut_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.ChargesForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Item_Company_List.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Item_Company.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Group_Item_List.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Group_items.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.GSTR_2.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Unregsiter.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Regsitered.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Purchase_Type_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Purchase_Type.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Sale_Type.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Sale_Type_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Unit_Item_List.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Unit_items.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Item_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Items.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Journal_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Bank_Entry.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.KOT_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.KOT.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Print_Ledger.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.ApplyLicenseKey.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Users_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Mobile_App.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Member_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Membership.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Package.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.OptionsAllForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.OutStanding.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Print_Outstanding.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.POS_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Purchase_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Purchase.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.TransPrint.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.TransRegisterprint.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Report_Viewer.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Cash_Bank_Book.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Day_book.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Autosizer.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.ActivationForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.JournalEntry.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Ledger.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.MainScreenPicture.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Payment_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.PayMentform.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.RcptRegisterForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.RecieptForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.RestroTables.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Room_Type.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Rooms.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Check_in_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.CheckOut_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Room_Booking_Register.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Room_Check_In.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Room_Checkout.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Room_Reservaration.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.SmsTemplete.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.CompanyList.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Create_Company.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Login.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.UserForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.MainScreenForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Resources.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.ShowCompanies.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.SetPathForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Splash.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.State.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Taxation.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.TaxationList.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.POS.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.TestForm.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.VAS.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.Webcam.resources
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.vbproj.GenerateResource.Cache
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.exe
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.xml
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.pdb
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.vbprojFakesResolveAssemblyReference.cache
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change\AADHAT\obj\x86\Debug\Atithi.vbprojResolveAssemblyReference.cache
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\Atithi.exe.config
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.xml
+E:\Curent Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.pdb
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\Atithi.exe.config
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.xml
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.pdb
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\x86\concrt140.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\x86\cvextern.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\x86\msvcp140.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\x86\vcruntime140.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\Atithi.exe
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\Atithi.pdb
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\Atithi.xml
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\Emgu.CV.UI.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\Emgu.CV.World.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\ZedGraph.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\Emgu.CV.UI.xml
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\Emgu.CV.World.xml
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\ZedGraph.xml
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\de\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\es\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\fr\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\hu\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\it\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\ja\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\pt\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\ru\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\sk\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\sv\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\tr\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.vbprojFakesResolveAssemblyReference.cache
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.vbprojResolveAssemblyReference.cache
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.account_group_list.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Account_Group.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Account_List.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.AccountListPrint.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.CreateAccount.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Attender_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Attender.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.bank_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Food_Bill.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Food_Bill_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.BusinessSources.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Print_CashBook.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.PrintOut_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.ChargesForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Item_Company_List.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Item_Company.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Group_Item_List.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Group_items.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.GSTR_2.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Unregsiter.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Regsitered.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Purchase_Type_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Purchase_Type.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Sale_Type.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Sale_Type_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Unit_Item_List.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Unit_items.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Item_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Items.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Journal_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Bank_Entry.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.KOT_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.KOT.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Print_Ledger.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.ApplyLicenseKey.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Users_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Mobile_App.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Member_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Membership.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Package.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.OptionsAllForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.OutStanding.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Print_Outstanding.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.POS_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Purchase_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Purchase.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.TransPrint.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.TransRegisterprint.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Report_Viewer.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Cash_Bank_Book.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Day_book.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Autosizer.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.ActivationForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.JournalEntry.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Ledger.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.MainScreenPicture.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Payment_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.PayMentform.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.RcptRegisterForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.RecieptForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.RestroTables.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Room_Type.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Rooms.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Check_in_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.CheckOut_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Room_Booking_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Room_Check_In.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Room_Checkout.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Room_Reservaration.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.SmsTemplete.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.CompanyList.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Create_Company.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Login.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.UserForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.MainScreenForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Resources.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.ShowCompanies.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.SetPathForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Splash.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.State.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Taxation.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.TaxationList.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.POS.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.TestForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.VAS.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.Webcam.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.vbproj.GenerateResource.Cache
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated) Design Change - Copy\AADHAT\obj\x86\Debug\Atithi.exe
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.exe.config
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.exe
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.xml
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.pdb
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\x86\concrt140.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\x86\cvextern.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\x86\msvcp140.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\x86\vcruntime140.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.exe
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.pdb
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.xml
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.account_group_list.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Account_Group.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Account_List.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.AccountListPrint.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.CreateAccount.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Attender_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Attender.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.bank_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Food_Bill.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Food_Bill_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.BusinessSources.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Print_CashBook.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.PrintOut_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ChargesForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Company.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Group_items.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR_2.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Unregsiter.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Regsitered.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Type_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Type.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Sale_Type.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Sale_Type_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Unit_items.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Items.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Journal_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Bank_Entry.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.KOT_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.KOT.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Print_Ledger.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ApplyLicenseKey.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Users_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Mobile_App.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Member_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Membership.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Package.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.OptionsAllForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.OutStanding.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Print_Outstanding.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.POS_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.TransPrint.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.TransRegisterprint.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Report_Viewer.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Cash_Bank_Book.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Day_book.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Autosizer.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ActivationForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.JournalEntry.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Ledger.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.MainScreenPicture.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Payment_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.PayMentform.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.RcptRegisterForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.RecieptForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.RestroTables.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Type.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Rooms.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Check_in_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.CheckOut_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Booking_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Check_In.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Checkout.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Reservaration.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.SmsTemplete.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.CompanyList.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Create_Company.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Login.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.UserForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.MainScreenForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Resources.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ShowCompanies.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.SetPathForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Splash.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.State.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Taxation.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.POS.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.TestForm.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.VAS.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.vbproj.GenerateResource.Cache
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Query_Maker.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.OutStanding_Amount_Only.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.msgAlert.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Tax_Setting.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Change_Financial_Year.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Pdf_Genrate.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Rearrange_Invoice_No.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Sale_Summary.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Receipe_Master.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.vbprojResolveAssemblyReference.cache
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Receipe_Register.resources
+D:\1Daily Work\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Manufacturing_of_Materials.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.exe.config
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.exe
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.xml
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.pdb
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\x86\concrt140.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\x86\cvextern.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\x86\msvcp140.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\x86\vcruntime140.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.exe
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.pdb
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Atithi.xml
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.account_group_list.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Account_Group.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Account_List.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.AccountListPrint.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.CreateAccount.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Attender_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Attender.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.bank_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Change_Financial_Year.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Food_Bill.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Food_Bill_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.BusinessSources.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Print_CashBook.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.PrintOut_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ChargesForm.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Company.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Group_items.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR_2.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Unregsiter.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.GSTR2_Supplies_From_Regsitered.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Type_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Type.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Sale_Type.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Sale_Type_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Unit_items.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Items.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Sale_Summary.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Journal_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Bank_Entry.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.KOT_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.KOT.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Print_Ledger.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ApplyLicenseKey.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Users_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Mobile_App.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.msgAlert.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.OutStanding_Amount_Only.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Member_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Membership.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Package.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.OptionsAllForm.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.OutStanding.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Print_Outstanding.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.POS_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Receipe_Master.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Receipe_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Purchase.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Query_Maker.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Rearrange_Invoice_No.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.TransPrint.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.TransRegisterprint.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Pdf_Genrate.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Report_Viewer.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Cash_Bank_Book.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Day_book.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Autosizer.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ActivationForm.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.JournalEntry.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Ledger.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.MainScreenPicture.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Payment_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.PayMentform.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.RcptRegisterForm.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.RecieptForm.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.RestroTables.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Type.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Rooms.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Check_in_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.CheckOut_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Booking_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Check_In.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Checkout.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Room_Reservaration.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.SmsTemplete.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.CompanyList.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Create_Company.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Login.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.UserForm.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.MainScreenForm.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Resources.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.ShowCompanies.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.SetPathForm.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Splash.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.State.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Tax_Setting.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Taxation.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.POS.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.TestForm.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.VAS.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.vbproj.GenerateResource.Cache
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Production_Register.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Production.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Item_Wise_Stock.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.Stock_Status.resources
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\FlashControlV71.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\stdole.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\ShockwaveFlashObjects.dll
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.vbproj.AssemblyReference.cache
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.vbproj.CoreCompileInputs.cache
+D:\1\Atithi 1.3. (KOT Bill Updated)\AADHAT\obj\x86\Debug\Atithi.vbproj.CopyComplete

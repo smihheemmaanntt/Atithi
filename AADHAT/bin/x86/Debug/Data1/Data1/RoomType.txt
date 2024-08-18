@@ -1,0 +1,8 @@
+CREATE TABLE RoomType (
+    ID        INTEGER PRIMARY KEY AUTOINCREMENT,
+    RoomTypeName TEXT,
+    PackageID INTEGER,
+    RoomRent  DECIMAL,
+    DiscPer   DECIMAL,
+    Taxper    DECIMAL
+);

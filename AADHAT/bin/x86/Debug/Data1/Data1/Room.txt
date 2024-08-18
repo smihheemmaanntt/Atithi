@@ -1,0 +1,8 @@
+CREATE TABLE Room (
+    ID             INTEGER PRIMARY KEY AUTOINCREMENT,
+    RoomName       TEXT
+    RoomTypeID     INTEGER,
+    Discription     TEXT
+);
+
+If clsFun.ExecScalarInt("Select RoomType From PackageID  WHERE ID=" & Val(txtID.Text) & "") <> 0 Then MsgBox("Pre-Define Package. You Can't Delete it.", vbCritical + vbOKOnly, "Access Denied") : Exit Sub

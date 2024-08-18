@@ -1,0 +1,13 @@
+CREATE TABLE BusinessSources (
+    ID          INTEGER PRIMARY KEY AUTOINCREMENT,
+    SourceName  TEXT,
+    FullAddress TEXT,
+    City        TEXT,
+    State       TEXT,
+    PhoneNo     TEXT,
+    Mob1        TEXT,
+    Mob2        TEXT,
+    FaxNo       TEXT,
+    EmailID     TEXT,
+    Website     TEXT
+);

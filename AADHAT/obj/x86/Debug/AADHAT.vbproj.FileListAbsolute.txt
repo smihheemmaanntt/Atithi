@@ -1,0 +1,310 @@
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\bin\x86\Debug\AADHAT.exe.config
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\bin\x86\Debug\AADHAT.exe
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\bin\x86\Debug\AADHAT.pdb
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\bin\x86\Debug\AADHAT.xml
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\bin\x86\Debug\Interop.ADODB.dll
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\bin\x86\Debug\Interop.ADOX.dll
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\bin\x86\Debug\Interop.MSAdodcLib.dll
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\Interop.MSAdodcLib.dll
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.vbproj.ResolveComReference.cache
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.account_group_list.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Account_Group.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Account_List.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.AccountListPrint.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.CreateAccount.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.bank_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Journal_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Bank_Entry.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.OutStanding.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Scrip_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Cash_Bank_Book.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Day_book.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.ChargesForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Autosizer.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.CrateForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Create_marka_list.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.ActivationForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.JournalEntry.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Ledger.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.MainScreenPicture.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Payment_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.PayMentform.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.RcptRegisterForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.RecieptForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Speed_Sale_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.SpeedSale.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.CompanyList.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Create_Company.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Item_form.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Login.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.UserForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.MainScreenForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Resources.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.ShowCompanies.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.scripForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.SetPathForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Splash.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.vbproj.GenerateResource.Cache
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.exe
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.xml
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.pdb
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Print_Bills.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Crate_IN_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Crate_Out_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Crate_IN.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.Crate_Out.resources
+C:\Users\pcsmarts\Desktop\AADHAT(9.Beejak Details Posted in Ledger)\AADHAT\obj\x86\Debug\AADHAT.vbprojResolveAssemblyReference.cache
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\bin\x86\Debug\Aadhat.exe.config
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.exe
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.xml
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.pdb
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\bin\x86\Debug\Aadhat.exe
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\bin\x86\Debug\Aadhat.pdb
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\bin\x86\Debug\Aadhat.xml
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.account_group_list.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Account_Group.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Account_List.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.AccountListPrint.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.CreateAccount.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.bank_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Print_CashBook.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.PrintDayBook.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Crate_IN_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Crate_IN.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Crate_Out_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Crate_Out.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.CrateLedger.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Journal_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Bank_Entry.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Print_Ledger.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Market_Tax.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.OptionsAllForm.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.OutStanding.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Print_Outstanding.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.HindiPrints.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Print_Bills.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Print_Parchi.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Purchase_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Purchase.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.TransPrint.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.TransRegisterprint.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Print_Beejak.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Scrip_Auto.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Scrip_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Cash_Bank_Book.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Day_book.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.ChargesForm.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Autosizer.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.CrateForm.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Create_marka_list.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.ActivationForm.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.JournalEntry.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Ledger.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.MainScreenPicture.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Payment_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.PayMentform.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.RcptRegisterForm.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.RecieptForm.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.ScripPrint.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.SmsTemplete.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Print_Speed_Sale_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Speed_Sale_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.SpeedSale.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.CompanyList.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Create_Company.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Item_form.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Login.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.UserForm.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.MainScreenForm.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Resources.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.ShowCompanies.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.scripForm.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.SetPathForm.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Splash.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Standard_Sale_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Standard_Sale.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.StandardPrint.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Stock_Sale_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Stock_Sale.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Storage_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Store.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Super_Sale_Register.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.Super_Sale.resources
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.vbproj.GenerateResource.Cache
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\bin\x86\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\obj\x86\Debug\Aadhat.vbprojFakesResolveAssemblyReference.cache
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\bin\x86\Debug\Helper.dll
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\bin\x86\Debug\System.Data.SQLite.dll
+G:\Client Project\AADHAT(20. Stock Sale Ready)\AADHAT\bin\x86\Debug\Helper.pdb
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\bin\x86\Debug\Aadhat.exe.config
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.exe
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.xml
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.pdb
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\bin\x86\Debug\Aadhat.exe
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\bin\x86\Debug\Aadhat.pdb
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\bin\x86\Debug\Aadhat.xml
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\bin\x86\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\bin\x86\Debug\Helper.pdb
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.vbprojFakesResolveAssemblyReference.cache
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.vbprojResolveAssemblyReference.cache
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.account_group_list.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Account_Group.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Account_List.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.AccountListPrint.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.CreateAccount.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.bank_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_CashBook.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.PrintDayBook.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Crate_IN_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Crate_IN.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Crate_Out_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Crate_Out.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.CrateLedger.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Journal_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Bank_Entry.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Ledger.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Market_Tax.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.OptionsAllForm.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.OutStanding.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Outstanding.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.HindiPrints.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Bills.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Parchi.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Purchase_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Purchase.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.TransPrint.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.TransRegisterprint.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Beejak.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Scrip_Auto.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Scrip_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Cash_Bank_Book.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Day_book.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.ChargesForm.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Autosizer.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.CrateForm.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Create_marka_list.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.ActivationForm.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.JournalEntry.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Ledger.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.MainScreenPicture.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Payment_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.PayMentform.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.RcptRegisterForm.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.RecieptForm.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.ScripPrint.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.SmsTemplete.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Speed_Sale_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Speed_Sale_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.SpeedSale.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.CompanyList.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Create_Company.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Item_form.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Login.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.UserForm.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.MainScreenForm.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Resources.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.ShowCompanies.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.scripForm.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.SetPathForm.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Splash.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Standard_Sale_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Standard_Sale.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.StandardPrint.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Stock_Sale_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Stock_Sale.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Storage_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Store.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Super_Sale_Register.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Super_Sale.resources
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.vbproj.GenerateResource.Cache
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\bin\x86\Debug\Aadhat.exe.config
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.exe
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.xml
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.pdb
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\bin\Debug\Aadhat.exe.config
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.vbprojFakesResolveAssemblyReference.cache
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.vbprojResolveAssemblyReference.cache
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.account_group_list.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Account_Group.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Account_List.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.AccountListPrint.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.CreateAccount.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.bank_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_CashBook.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.PrintDayBook.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Crate_IN_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Crate_IN.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Crate_Out_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Crate_Out.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.CrateLedger.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Journal_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Bank_Entry.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Ledger.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Market_Tax.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.OptionsAllForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.OutStanding.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Outstanding.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.HindiPrints.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Bills.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Parchi.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Purchase_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Purchase.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.TransPrint.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.TransRegisterprint.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Beejak.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Scrip_Auto.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Scrip_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Cash_Bank_Book.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Day_book.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.ChargesForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Autosizer.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.CrateForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Create_marka_list.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.ActivationForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.JournalEntry.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Ledger.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.MainScreenPicture.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Payment_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.PayMentform.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.RcptRegisterForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.RecieptForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.ScripPrint.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.SmsTemplete.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Print_Speed_Sale_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Speed_Sale_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.SpeedSale.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.CompanyList.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Create_Company.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Item_form.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Login.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.UserForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.MainScreenForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Resources.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.ShowCompanies.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.scripForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.SetPathForm.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Splash.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Standard_Sale_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Standard_Sale.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.StandardPrint.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Stock_Sale_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Stock_Sale.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Storage_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Store.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Super_Sale_Register.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.Super_Sale.resources
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.vbproj.GenerateResource.Cache
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\bin\x86\Debug\Aadhat.exe
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\bin\x86\Debug\Aadhat.pdb
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\bin\x86\Debug\Aadhat.xml
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\bin\x86\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\bin\x86\Debug\Helper.pdb
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+E:\Current Project\AADHAT with sqllite\AADHAT with sqllite\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll

@@ -1,0 +1,7 @@
+<project outputDir="D:\Build\Easy Whatsapp\Confused" baseDir="D:\Build\Easy Whatsapp" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" inherit="false">
+    <protection id="constants" />
+    <protection id="ctrl flow" />
+  </rule>
+  <module path="Easy Whatsapp.exe" />
+</project>

@@ -1,0 +1,470 @@
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\bin\x86\Debug\Aadhat.exe.config
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.exe
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.xml
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.pdb
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\bin\x86\Debug\Aadhat.exe
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\bin\x86\Debug\Aadhat.pdb
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\bin\x86\Debug\Aadhat.xml
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\bin\x86\Debug\Helper.pdb
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Teller.vbprojFakesResolveAssemblyReference.cache
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.account_group_list.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Account_Group.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Account_List.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.AccountListPrint.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.CreateAccount.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.bank_Register.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Print_CashBook.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.PrintDayBook.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Journal_Register.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Bank_Entry.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Print_Ledger.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.OptionsAllForm.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.OutStanding.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Print_Outstanding.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.TransPrint.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.TransRegisterprint.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Cash_Bank_Book.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Day_book.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Autosizer.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.ActivationForm.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.JournalEntry.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Ledger.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.MainScreenPicture.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Payment_Register.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.PayMentform.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.RcptRegisterForm.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.RecieptForm.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.SmsTemplete.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.CompanyList.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Create_Company.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Login.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.UserForm.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.MainScreenForm.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Resources.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.ShowCompanies.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.SetPathForm.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.Splash.resources
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Teller.vbproj.GenerateResource.Cache
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Teller.vbprojResolveAssemblyReference.cache
+E:\AAA-Work in Progress\A-Projects\Teller\AADHAT\bin\x86\Debug\Aadhat.exe.config
+E:\AAA-Work in Progress\A-Projects\Teller\AADHAT\obj\x86\Debug\Aadhat.exe
+E:\AAA-Work in Progress\A-Projects\Teller\AADHAT\obj\x86\Debug\Aadhat.xml
+E:\AAA-Work in Progress\A-Projects\Teller\AADHAT\obj\x86\Debug\Aadhat.pdb
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\bin\x86\Debug\Aadhat.exe.config
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.exe
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.xml
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.pdb
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\bin\x86\Debug\Aadhat.exe
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\bin\x86\Debug\Aadhat.pdb
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\bin\x86\Debug\Aadhat.xml
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\bin\x86\Debug\Helper.pdb
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Teller.vbprojFakesResolveAssemblyReference.cache
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Teller.vbprojResolveAssemblyReference.cache
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.account_group_list.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Account_Group.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Account_List.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.AccountListPrint.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.CreateAccount.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.bank_Register.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Print_CashBook.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.PrintDayBook.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Journal_Register.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Bank_Entry.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Print_Ledger.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.OptionsAllForm.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.OutStanding.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Print_Outstanding.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.TransPrint.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.TransRegisterprint.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Cash_Bank_Book.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Day_book.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Autosizer.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.ActivationForm.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.JournalEntry.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Ledger.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.MainScreenPicture.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Payment_Register.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.PayMentform.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.RcptRegisterForm.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.RecieptForm.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.SmsTemplete.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.CompanyList.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Create_Company.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Login.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.UserForm.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.MainScreenForm.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Resources.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.ShowCompanies.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.SetPathForm.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Splash.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Teller.vbproj.GenerateResource.Cache
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Unit_Item_List.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Unit_items.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.ItemsForm.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Item_Register.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Taxation.resources
+E:\AAA-Work in Progress\A-Projects\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.TaxationList.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\bin\x86\Debug\Aadhat.exe.config
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.exe
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.xml
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\bin\x86\Debug\Aadhat.exe
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\bin\x86\Debug\Aadhat.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\bin\x86\Debug\Aadhat.xml
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\bin\x86\Debug\Helper.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Teller.vbprojFakesResolveAssemblyReference.cache
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Teller.vbprojResolveAssemblyReference.cache
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.account_group_list.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Account_Group.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Account_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.AccountListPrint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.CreateAccount.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.bank_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Print_CashBook.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.PrintDayBook.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Item_Company_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Item_Company.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Group_Item_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Group_items.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Unit_Item_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Unit_items.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.ItemsForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Item_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Journal_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Bank_Entry.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Print_Ledger.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.OptionsAllForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.OutStanding.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Print_Outstanding.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.TransPrint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.TransRegisterprint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Cash_Bank_Book.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Day_book.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Autosizer.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.ActivationForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.JournalEntry.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Ledger.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.MainScreenPicture.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Payment_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.PayMentform.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.RcptRegisterForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.RecieptForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.SmsTemplete.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.CompanyList.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Create_Company.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Login.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.UserForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.MainScreenForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Resources.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.ShowCompanies.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.SetPathForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Splash.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.Taxation.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Aadhat.TaxationList.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller - Copy\AADHAT\obj\x86\Debug\Teller.vbproj.GenerateResource.Cache
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\bin\x86\Debug\Helper.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Teller.vbprojFakesResolveAssemblyReference.cache
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Teller.vbprojResolveAssemblyReference.cache
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.account_group_list.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Account_Group.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Account_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.AccountListPrint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.CreateAccount.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.bank_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Print_CashBook.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.PrintDayBook.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Item_Company_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Item_Company.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Group_Item_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Group_items.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Unit_Item_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Unit_items.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.ItemsForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Item_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Journal_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Bank_Entry.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Print_Ledger.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.OptionsAllForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.OutStanding.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Print_Outstanding.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.TransPrint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.TransRegisterprint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Cash_Bank_Book.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Day_book.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Autosizer.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.ActivationForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.JournalEntry.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Ledger.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.MainScreenPicture.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Payment_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.PayMentform.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.RcptRegisterForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.RecieptForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.SmsTemplete.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.CompanyList.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Create_Company.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Login.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.UserForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.MainScreenForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Resources.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.ShowCompanies.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.SetPathForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Splash.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Taxation.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.TaxationList.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Teller.vbproj.GenerateResource.Cache
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Invoice_Type.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\bin\x86\Debug\Teller.exe.config
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\bin\x86\Debug\Teller.exe
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\bin\x86\Debug\Teller.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\bin\x86\Debug\Teller.xml
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Teller.exe
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Teller.xml
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Teller.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.ChargesForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Invoice_Type_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Purchase.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Sale.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.0(Account Master Completed)\AADHAT\obj\x86\Debug\Aadhat.Purchase_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\bin\x86\Debug\Teller.exe.config
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Teller.exe
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Teller.xml
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Teller.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\bin\x86\Debug\Teller.exe
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\bin\x86\Debug\Teller.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\bin\x86\Debug\Teller.xml
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\bin\x86\Debug\Helper.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Teller.vbprojFakesResolveAssemblyReference.cache
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Teller.vbprojResolveAssemblyReference.cache
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.account_group_list.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Account_Group.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Account_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.AccountListPrint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.CreateAccount.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.bank_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Print_CashBook.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.PrintDayBook.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.ChargesForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Item_Company_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Item_Company.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Group_Item_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Group_items.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Invoice_Type_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Invoice_Type.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Unit_Item_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Unit_items.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.ItemsForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Item_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Journal_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Bank_Entry.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Print_Ledger.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.OptionsAllForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.OutStanding.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Print_Outstanding.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Purchase_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Purchase.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.TransPrint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.TransRegisterprint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Cash_Bank_Book.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Day_book.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Autosizer.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.ActivationForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.JournalEntry.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Ledger.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.MainScreenPicture.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Payment_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.PayMentform.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.RcptRegisterForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.RecieptForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Sale.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.SmsTemplete.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.CompanyList.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Create_Company.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Login.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.UserForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.MainScreenForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Resources.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.ShowCompanies.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.SetPathForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Splash.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Taxation.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.TaxationList.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Teller.vbproj.GenerateResource.Cache
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.Sale_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.1(Purchase and Sale Completed)\AADHAT\obj\x86\Debug\Aadhat.PrintReports.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Teller.exe.config
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.exe
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.xml
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Teller.exe
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Teller.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Teller.xml
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Helper.pdb
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.vbprojFakesResolveAssemblyReference.cache
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.vbprojResolveAssemblyReference.cache
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.account_group_list.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Account_Group.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Account_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.AccountListPrint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.CreateAccount.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.bank_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Print_CashBook.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.PrintDayBook.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.ChargesForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Item_Company_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Item_Company.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Group_Item_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Group_items.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Invoice_Type_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Invoice_Type.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Unit_Item_List.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Unit_items.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.ItemsForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Item_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Journal_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Bank_Entry.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Print_Ledger.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.OptionsAllForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.OutStanding.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Print_Outstanding.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Purchase_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Purchase.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.TransPrint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.TransRegisterprint.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Cash_Bank_Book.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Day_book.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Autosizer.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.ActivationForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.JournalEntry.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Ledger.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.MainScreenPicture.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Payment_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.PayMentform.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.RcptRegisterForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.RecieptForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.PrintReports.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Sale_Register.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Sale.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.SmsTemplete.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.CompanyList.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Create_Company.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Login.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.UserForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.MainScreenForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Resources.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.ShowCompanies.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.SetPathForm.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Splash.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Taxation.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.TaxationList.resources
+E:\AAA-Work in Progress\B-Work In Progress\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.vbproj.GenerateResource.Cache
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Teller.exe.config
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.exe
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.xml
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.pdb
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Teller.exe
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Teller.pdb
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Teller.xml
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Transalation.1.0.0.0.Fakes.fakesconfig
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\bin\x86\Debug\Helper.pdb
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.vbprojFakesResolveAssemblyReference.cache
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.vbprojResolveAssemblyReference.cache
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.account_group_list.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Account_Group.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Account_List.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.AccountListPrint.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.CreateAccount.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.bank_Register.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Print_CashBook.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.PrintDayBook.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.ChargesForm.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Item_Company_List.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Item_Company.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Group_Item_List.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Group_items.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Invoice_Type_Register.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Invoice_Type.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Unit_Item_List.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Unit_items.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.ItemsForm.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Item_Register.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Items.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Journal_Register.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Bank_Entry.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Print_Ledger.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.OptionsAllForm.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.OutStanding.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Print_Outstanding.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Purchase_Register.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Purchase.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.TransPrint.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.TransRegisterprint.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Cash_Bank_Book.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Day_book.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Autosizer.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.ActivationForm.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.JournalEntry.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Ledger.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.MainScreenPicture.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Payment_Register.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.PayMentform.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.RcptRegisterForm.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.RecieptForm.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.PrintReports.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Sale_Register.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Sale.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.SmsTemplete.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.CompanyList.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Create_Company.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Login.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.UserForm.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.MainScreenForm.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Resources.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.ShowCompanies.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.SetPathForm.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Splash.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.Taxation.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Aadhat.TaxationList.resources
+C:\Users\pcsmarts\Desktop\Teller -1.2(Tax Inclusive Calculation Complete)\AADHAT\obj\x86\Debug\Teller.vbproj.GenerateResource.Cache
+E:\AAA-Work in Progress\B-Work In Progress\Atithi\AADHAT\bin\x86\Debug\Teller.exe.config
+E:\AAA-Work in Progress\B-Work In Progress\Atithi\AADHAT\obj\x86\Debug\Teller.exe
+E:\AAA-Work in Progress\B-Work In Progress\Atithi\AADHAT\obj\x86\Debug\Teller.xml
+E:\AAA-Work in Progress\B-Work In Progress\Atithi\AADHAT\obj\x86\Debug\Teller.pdb
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\bin\x86\Debug\Teller.exe.config
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Teller.exe
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Teller.xml
+C:\Users\pcsmarts\Desktop\Atithi\AADHAT\obj\x86\Debug\Teller.pdb

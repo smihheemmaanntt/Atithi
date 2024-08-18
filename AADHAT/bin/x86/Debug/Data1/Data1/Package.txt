@@ -1,0 +1,29 @@
+PRAGMA foreign_keys = 0;
+
+CREATE TABLE sqlitestudio_temp_table AS SELECT *
+                                          FROM Package;
+
+DROP TABLE Package;
+
+CREATE TABLE Package (
+    ID          INTEGER PRIMARY KEY AUTOINCREMENT,
+    PackageName TEXT,
+    Discription TEXT,
+    Tag         INTEGER
+);
+
+INSERT INTO Package (
+                        ID,
+                        PackageName,
+                        Discription,
+                        Tag
+                    )
+                    SELECT ID,
+                           PackageName,
+                           DisPer,
+                           ValidDays
+                      FROM sqlitestudio_temp_table;
+
+DROP TABLE sqlitestudio_temp_table;
+
+PRAGMA foreign_keys = 1;

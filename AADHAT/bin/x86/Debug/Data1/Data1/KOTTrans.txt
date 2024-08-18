@@ -1,0 +1,54 @@
+PRAGMA foreign_keys = 0;
+
+CREATE TABLE sqlitestudio_temp_table AS SELECT *
+                                          FROM KOTTrans;
+
+DROP TABLE KOTTrans;
+
+CREATE TABLE KOTTrans (
+    KOTID      INTEGER,
+    ItemID     INTEGER,
+    ItemCode   TEXT,
+    ItemName   TEXT,
+    SrNo       INTEGER,
+    Unit       TEXT,
+    Qty        DECIMAL,
+    Rate       DECIMAL,
+    Amount     DECIMAL,
+    TableID    TEXT,
+    TableNos   TEXT,
+    IsOccupied TEXT,
+    RoomID     INTEGER
+);
+
+INSERT INTO KOTTrans (
+                         KOTID,
+                         ItemID,
+                         ItemCode,
+                         ItemName,
+                         SrNo,
+                         Unit,
+                         Qty,
+                         Rate,
+                         Amount,
+                         TableID,
+                         TableNos,
+                         IsOccupied
+                     )
+                     SELECT KOTID,
+                            ItemID,
+                            ItemCode,
+                            ItemName,
+                            SrNo,
+                            Unit,
+                            Qty,
+                            Rate,
+                            Amount,
+                            TableID,
+                            TableNos,
+                            IsOccupied
+                       FROM sqlitestudio_temp_table;
+
+DROP TABLE sqlitestudio_temp_table;
+
+PRAGMA foreign_keys = 1;

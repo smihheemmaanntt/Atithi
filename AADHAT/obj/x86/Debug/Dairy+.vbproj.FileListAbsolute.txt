@@ -1,0 +1,8 @@
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\bin\x86\Debug\Aadhat.exe.config
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.exe
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.xml
+C:\Users\pcsmarts\Desktop\AADHAT with sqllite\AADHAT\obj\x86\Debug\Aadhat.pdb
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\bin\x86\Debug\Aadhat.exe.config
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.exe
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.xml
+C:\Users\pcsmarts\Desktop\Teller\AADHAT\obj\x86\Debug\Aadhat.pdb

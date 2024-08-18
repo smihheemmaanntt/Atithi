@@ -1,0 +1,9 @@
+Part I : 
+http://216.245.209.132/rest/services/sendSMS/sendGroupSms?AUTH_KEY=98e5b451dd9b8147e430253a8fd0d36b&smsContentType=english&senderId=SOFTMI&mobileNos=
+
+Part II:
+&message=message
+
+
+Part III:
+&routeId=1
